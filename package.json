@@ -1,0 +1,23 @@
+{
+  "name": "javascript-test-spies",
+  "version": "1.0.0",
+  "description": "javascript-test-spies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltopin/javascript-test-spies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltopin/javascript-test-spies/issues"
+  },
+  "homepage": "https://github.com/ltopin/javascript-test-spies#readme",
+  "devDependencies": {
+    "sinon": "^9.2.1"
+  }
+}
